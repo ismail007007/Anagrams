@@ -1,5 +1,6 @@
 /* This is the best solution I can think of using XOR function
-I have come up the idea xor function while doing question "which no. in array occurs odd times"
+I have come up with the idea of using xor function while doing the question "which no. in array occurs odd times"
+
 O(n) time complexity and O(1) space complexity.
 
 */
